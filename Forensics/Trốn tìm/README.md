@@ -7,3 +7,5 @@ Một dòng chữ hướng dẫn hiện ra...
 
 #
 Thông tin truy cập: ssh player@178.128.19.56 -p 9595
+
+Mật khẩu: "player"
