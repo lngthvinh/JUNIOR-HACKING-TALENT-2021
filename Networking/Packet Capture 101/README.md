@@ -8,4 +8,4 @@ Trang web lừa đảo là http://luadao.com thì<br>
 Định dạng flag sẽ là CTF{http://luadao.com}
 
 #
-<a href="./capture-bae2359be1784c7457f6eabc423bb2e3.pcapng">Tải tệp đính kèm tại đây ↓</a>
+[Tải tệp đính kèm tại đây ↓](./capture-bae2359be1784c7457f6eabc423bb2e3.pcapng)
