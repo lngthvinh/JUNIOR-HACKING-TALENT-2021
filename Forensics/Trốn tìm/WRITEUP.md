@@ -1,7 +1,5 @@
 # WRITEUP
 
-Mật khẩu: "player"
-
 ```
 player@5d320c7128ed:~$ find / -name getFlag 2> /dev/null
 /secret/secret2/getFlag
