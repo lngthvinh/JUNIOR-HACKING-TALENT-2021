@@ -18,4 +18,4 @@ http://drive.kid.cyberjutsu-lab.tech
 Để giải thử thách này bạn có thể dùng một công cụ nổi tiếng là Burp Suite Commnuity hoặc dùng đoạn mã Python dưới đây để có thể upload tập tin tùy ý.
 
 #
-[Tải tệp đính kèm tại đây ↓]
+[Tải tệp đính kèm tại đây ↓](./upload_code_example-d8a666bb434b3983b836a66e30ab07a3.zip)
