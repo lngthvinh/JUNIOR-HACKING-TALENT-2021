@@ -6,6 +6,5 @@ Lần theo manh mối của các thử thách trước, em phát hiện ra có m
 Một dòng chữ hướng dẫn hiện ra...
 
 #
-Thông tin truy cập: ssh player@178.128.19.56 -p 9595
-
+Thông tin truy cập: ssh player@178.128.19.56 -p 9595<br>
 Mật khẩu: "player"
