@@ -5,4 +5,6 @@ Người chơi Z! Không gian mạng chứa rất nhiều loại tri thức và 
 
 Hãy tìm ra thông điệp ẩn nằm trong bức ảnh này.
 
+---
+
 <a href="./image-5c8ba6fbe0337c1781072b9b47cf213d.png">Tải tệp đính kèm tại đây ↓</a>
