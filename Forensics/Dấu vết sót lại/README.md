@@ -5,5 +5,6 @@ Cũng trong máy tính hệ điều hành Linux từ thử thách trước, thô
 
 Quan sát thấy rằng, người bí ẩn ấy có username là "admin". Nhiệm vụ bây giờ của chúng ta là truy vết xem, người bí ẩn "admin" đã làm gì trên máy tính này!
 
-Thông tin truy cập: ssh player@178.128.19.56 -p 9595
+#
+Thông tin truy cập: ssh player@178.128.19.56 -p 9595<br>
 Mật khẩu: "player"
