@@ -12,4 +12,4 @@ Xung quanh là khung cảnh của một thành phố rất hiện đại, nhữn
 "Này nhé! Tôi sẽ đưa bạn 2 tập tin chứa các bài văn, hãy tìm ra TẤT CẢ sự khác nhau của hai tập tin này. Nếu bạn trả lời đúng, tôi sẽ tiếp tục dẫn bạn tới gặp chủ nhân!"
 
 #
-<a href="">Tải tệp đính kèm tại đây ↓</a>
+[Tải tệp đính kèm tại đây ↓](./baivan-4bb65d660327931a4d1163179d93041d.zip)
