@@ -1,11 +1,15 @@
 # !/usr/bin/python
 # nc 178.128.19.56 25555
 '''
-Như các em đã biết, thư viện random được dùng để tạo ra các số ngẫu nhiên. Tuy nhiên, nó sẽ "không thực sự" ngẫu nhiên như chúng ta nghĩ ở trong trường hợp này. Vì sao?
+Như các em đã biết, thư viện random được dùng để tạo ra các số ngẫu nhiên. Tuy nhiên, nó sẽ "không 
+thực sự" ngẫu nhiên như chúng ta nghĩ ở trong trường hợp này. Vì sao?
 
-Trước đó, tác giả đã gọi hàm random.seed. Seed (hạt giống) trong random là một con số được gieo vào để khởi tạo trạng thái bắt đầu trong cỗ máy random. Hạt giống này sẽ quyết định các kết quả random sau đó.
+Trước đó, tác giả đã gọi hàm random.seed. Seed (hạt giống) trong random là một con số được gieo vào 
+để khởi tạo trạng thái bắt đầu trong cỗ máy random. Hạt giống này sẽ quyết định các kết quả random 
+sau đó.
 
-Vì vậy, với một seed giống nhau, thì ở bất kì lần chạy nào, cũng sẽ cho ra các kết quả random sau đó giống nhau.
+Vì vậy, với một seed giống nhau, thì ở bất kì lần chạy nào, cũng sẽ cho ra các kết quả random sau đó 
+giống nhau.
 
 Tham khảo: https://www.geeksforgeeks.org/random-seed-in-python/
 '''
